@@ -7,4 +7,4 @@ This folder contains basic code implementations of various machine learning algo
 
 • Linear Regression Model
 
-• End-to-End ML Pipeline
+• End-to-End ML Pipeline (still needs translation to english)
