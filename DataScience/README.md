@@ -1,4 +1,5 @@
 🌞 Solar Plant Analysis – Data Science Project
+
 This is a data science project focused on analyzing the performance and behavior of a solar power plant located in India. The goal is to extract insights from the available data, identify patterns, and explore factors affecting energy production.
 
 The project includes:
