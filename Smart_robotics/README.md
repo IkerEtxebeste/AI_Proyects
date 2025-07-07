@@ -1,7 +1,7 @@
 🤖 Smart Robotics – Reinforcement Learning Notebooks
 
 
-This folder contains a series of Jupyter notebooks focused on implementing core reinforcement learning (RL) algorithms and techniques, progressing from foundational methods to more advanced policy gradient and actor-critic approaches. These notebooks are great for understanding how RL can be applied in smart robotics and control systems.
+This folder contains a series of Jupyter notebooks focused on implementing core reinforcement learning (RL) algorithms and techniques, progressing from foundational methods to more advanced policy gradient and actor-critic approaches. They contain small explanations of the theory along with certain simple exercises. These notebooks are great for understanding how RL can be applied in smart robotics and control systems.
 
 • 00_MDP.ipynb
 
