@@ -13,7 +13,7 @@ Deep Learning: Neural network implementations using frameworks like PyTorch
 
 Reinforcement Learning: A series of Jupyter notebooks walking through foundational to advanced RL algorithms (e.g., TD Learning, REINFORCE, Actor-Critic, PPO)
 
-##⚠️ Usage Notes
+## ⚠️ Usage Notes
 
 The code is written in Jupyter Notebook (.ipynb) format.
 For best readability and to execute the notebooks interactively, it is recommended to download the repository and open the notebooks locally using Jupyter Lab or Jupyter Notebook.
